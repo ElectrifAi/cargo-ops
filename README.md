@@ -12,7 +12,7 @@ The model provides a streamlined, user-friendly interface for inputting cargo an
 
 - **Capacity Maximization**: It accurately calculates the best cargo load for each flight, maximizing the use of available weight and volume capacities.
 - **Prioritization Handling**: The model can handle priority cargo, ensuring that high-priority items are given the appropriate level of importance in the optimization process.
-- **Customization**: Tailored to accommodate different aircraft types and flight routes, ACOM adapts to various operational needs and preferences.
+- **Customization**: Tailored to accommodate different aircraft types and flight routes, the model adapts to various operational needs and preferences.
 - **Safety Compliance**: The optimization respects all safety guidelines related to weight and balance of the aircraft.
 - **Real-Time Adjustments**: Capable of adjusting to last-minute changes in cargo or flight schedules, providing airlines with the flexibility needed for day-to-day operations.
 - **Reporting and Analysis**: Generates comprehensive reports detailing cargo loads, unused capacities, and other key metrics for operational analysis.
